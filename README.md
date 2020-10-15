@@ -1,2 +1,2 @@
-### 👋 Hi there, I'm Amit Sharma. A full stack developer and a fitness enthusiast 
+### 👋 Hi there, I'm Amit Sharma. A MERN developer :electron:  and a fitness enthusiast 🏃‍♂️
 
