@@ -16,5 +16,7 @@ wizarding world :zap:
 5) https://amit-s19-hangman.netlify.app/
 6) https://amit-s19-dad-jokes.netlify.app/
 
-#### Find me on [instagram](https://www.instagram.com/__.the.666.th.__)
-#### Find me on [linkedin](https://www.linkedin.com/in/amit-sharma-361a39174/)
+### Find me on my social handles :smiley:
+
+1) [instagram](https://www.instagram.com/__.the.666.th.__)
+2) [linkedin](https://www.linkedin.com/in/amit-sharma-361a39174/)
