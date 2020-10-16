@@ -1,3 +1,6 @@
+![coverBanner](https://user-images.githubusercontent.com/46066481/96243977-1a58d200-0fc3-11eb-9340-aa18eb714230.png)
+
+
 ### 👋 Hi there, I'm Amit Sharma. A MERN developer :electron:  and a fitness enthusiast 🏃‍♂️
 I'm pursuing my bachelors degree in computer science 🎓 from Amity University 🏛️
 and a budding fullstack developer with my speciality being React Js :electron:
