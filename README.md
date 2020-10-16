@@ -9,7 +9,7 @@ apart from that I love working out :running: and reading/watching novels/movies 
 wizarding world :zap:
 
 ### Check out some of my React Projects 😸🖤
-1) https://amit-s19-plotly-components.netlify.app/
+1) https://amit-s19-plotly-components.netlify.app/ (best one)
 2) https://amit-s19-react-todo-app.netlify.app/
 3) https://amit-s19-deck-of-cards.netlify.app/
 4) https://amit-s19-lights-out.netlify.app/
