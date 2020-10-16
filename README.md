@@ -5,7 +5,7 @@ I have recently started developing cross platform mobile application :iphone: in
 apart from that I love working out :running: and reading/watching novels/movies about 
 wizarding world :zap:
 
-__Check out some of my React Projects 😸🖤__
+### Check out some of my React Projects 😸🖤
 1) https://amit-s19-plotly-components.netlify.app/
 2) https://amit-s19-react-todo-app.netlify.app/
 3) https://amit-s19-deck-of-cards.netlify.app/
@@ -13,4 +13,5 @@ __Check out some of my React Projects 😸🖤__
 5) https://amit-s19-hangman.netlify.app/
 6) https://amit-s19-dad-jokes.netlify.app/
 
-### Find me on instagram : [Amit Sharma](https://www.instagram.com/__.the.666.th.__)
+#### Find me on instagram : [Amit Sharma](https://www.instagram.com/__.the.666.th.__)
+#### Find me on linkedin : [Amit Sharma](https://www.linkedin.com/in/amit-sharma-361a39174/)
