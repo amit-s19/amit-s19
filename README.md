@@ -18,5 +18,5 @@ wizarding world :zap:
 
 ### Find me on my social handles :smiley:
 
-1) [instagram](https://www.instagram.com/__.the.666.th.__)
-2) [linkedin](https://www.linkedin.com/in/amit-sharma-361a39174/)
+1) [Instagram](https://www.instagram.com/__.the.666.th.__)
+2) [Linkedin](https://www.linkedin.com/in/amit-sharma-361a39174/)
