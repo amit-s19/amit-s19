@@ -3,7 +3,7 @@
 
 ### 👋 Hi there, I'm Amit Sharma. A MERN developer :electron:  and a fitness enthusiast 🏃‍♂️
 I'm pursuing my bachelors degree in computer science 🎓 from Amity University 🏛️
-and a budding fullstack developer with my speciality being React Js :electron:
+and I might say that I'm a budding fullstack developer with my speciality being React Js :electron:
 I have recently started developing cross platform mobile application :iphone: in React Native :atom: 
 apart from that I love working out :running: and reading/watching novels/movies about 
 wizarding world :zap:
