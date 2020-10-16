@@ -13,4 +13,4 @@ __Check out some of my React Projects 😸🖤__
 5) https://amit-s19-hangman.netlify.app/
 6) https://amit-s19-dad-jokes.netlify.app/
 
-__Find me on instagram : [Amit Sharma](https://www.instagram.com/__.the.666.th.__/) __
+### Find me on instagram : [Amit Sharma](https://www.instagram.com/__.the.666.th.__)
