@@ -20,3 +20,6 @@ wizarding world :zap:
 
 1) [Instagram](https://www.instagram.com/__.the.666.th.__)
 2) [Linkedin](https://www.linkedin.com/in/amit-sharma-361a39174/)
+
+### Checkout my stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amit-s19)](https://github.com/anuraghazra/github-readme-stats)
