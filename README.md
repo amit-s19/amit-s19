@@ -23,3 +23,5 @@ wizarding world :zap:
 
 ### Checkout my stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amit-s19)](https://github.com/anuraghazra/github-readme-stats)
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=amit-s19&show_icons=true&theme=gradient)
