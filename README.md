@@ -1,9 +1,9 @@
 ![coverBanner](https://user-images.githubusercontent.com/46066481/96243977-1a58d200-0fc3-11eb-9340-aa18eb714230.png)
 
 
-### 👋 Hi there, I'm Amit Sharma. A MERN developer :electron:  and a fitness enthusiast 🏃‍♂️
-I'm pursuing my bachelors degree in computer science 🎓 from Amity University 🏛️
-and I might say that I'm a budding fullstack developer with my speciality being React Js :electron:
+### 👋 Hi there, I'm Amit Sharma. A Fullstack developer :electron:  and a fitness enthusiast 🏃‍♂️
+I've completed my bachelors degree in computer science 🎓 from Amity University 🏛️
+and I currently work at Thales as a SE :electron:
 I have recently started developing cross platform mobile application :iphone: in React Native :atom: 
 apart from that I love working out :running: and reading/watching novels/movies about 
 wizarding world :zap:
