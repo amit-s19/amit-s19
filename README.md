@@ -10,12 +10,12 @@ wizarding world :zap:
 
 ### Check out some of my  projects 😸🖤
 1) Drag and drop todo list with MERN : https://amits19-react-todo-drag-drop.netlify.app/
-1) https://amit-s19-plotly-components.netlify.app/ (best one)
-2) https://amit-s19-react-todo-app.netlify.app/
-3) https://amit-s19-deck-of-cards.netlify.app/
-4) https://amit-s19-lights-out.netlify.app/
-5) https://amit-s19-hangman.netlify.app/
-6) https://amit-s19-dad-jokes.netlify.app/
+2) Various charts for data visualization: https://amit-s19-plotly-components.netlify.app/
+3) Simple todo app: https://amit-s19-react-todo-app.netlify.app/
+4) An interactive cards app: https://amit-s19-deck-of-cards.netlify.app/
+5) An intersting colorful game: https://amit-s19-lights-out.netlify.app/
+6) We all know what it is: https://amit-s19-hangman.netlify.app/
+
 
 ### Find me on my social handles :smiley:
 
