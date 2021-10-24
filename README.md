@@ -8,7 +8,8 @@ I have a passion for development(maybe) because I really like what I do and I ho
 apart from that I love working out :running: and reading/watching novels/movies about 
 wizarding world :zap:
 
-### Check out some of my React Projects 😸🖤
+### Check out some of my  projects 😸🖤
+1) Drag and drop todo list with MERN : https://amits19-react-todo-drag-drop.netlify.app/
 1) https://amit-s19-plotly-components.netlify.app/ (best one)
 2) https://amit-s19-react-todo-app.netlify.app/
 3) https://amit-s19-deck-of-cards.netlify.app/
