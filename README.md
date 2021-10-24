@@ -4,7 +4,7 @@
 ### 👋 Hi there, I'm Amit Sharma. A Fullstack developer :electron:  and a fitness enthusiast 🏃‍♂️
 I've completed my bachelors degree in computer science 🎓 from Amity University 🏛️
 and I currently work at Thales as a SE :electron:
-I have recently started developing cross platform mobile application :iphone: in React Native :atom: 
+I have a passion for development(maybe) because I really like what I do and I hope to do BIG things in the near future(Trust me, I will). I also work with cross platform mobile application development in React Native 
 apart from that I love working out :running: and reading/watching novels/movies about 
 wizarding world :zap:
 
