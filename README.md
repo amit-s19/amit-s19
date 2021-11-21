@@ -9,12 +9,13 @@ apart from that I love working out :running: and reading/watching novels/movies 
 wizarding world :zap:
 
 ### Check out some of my  projects 😸🖤
-1) Drag and drop todo list with MERN : https://amits19-react-todo-drag-drop.netlify.app/
-2) Various charts for data visualization: https://amit-s19-plotly-components.netlify.app/
-3) Simple todo app: https://amit-s19-react-todo-app.netlify.app/
-4) An interactive cards app: https://amit-s19-deck-of-cards.netlify.app/
-5) An intersting colorful game: https://amit-s19-lights-out.netlify.app/
-6) We all know what it is: https://amit-s19-hangman.netlify.app/
+1) Covid-19 responsive landing page made with react : https://amits19-covid-19-landing-page.netlify.app/
+2) Drag and drop todo list with MERN : https://amits19-react-todo-drag-drop.netlify.app/
+3) Various charts for data visualization: https://amit-s19-plotly-components.netlify.app/
+4) Simple todo app: https://amit-s19-react-todo-app.netlify.app/
+5) An interactive cards app: https://amit-s19-deck-of-cards.netlify.app/
+6) An intersting colorful game: https://amit-s19-lights-out.netlify.app/
+7) We all know what it is: https://amit-s19-hangman.netlify.app/
 
 
 ### Find me on my social handles :smiley:
