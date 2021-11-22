@@ -18,10 +18,10 @@ wizarding world :zap:
 7) We all know what it is: https://amit-s19-hangman.netlify.app/
 
 
-### Find me on my social handles :smiley:
+### Connect with me :smiley:
 
-1) [Instagram](https://www.instagram.com/__.the.666.th.__)
-2) [Linkedin](https://www.linkedin.com/in/amit-sharma-361a39174/)
+1) [Linkedin](https://www.linkedin.com/in/amit-sharma-361a39174/)
+2) [Instagram](https://www.instagram.com/__.the.666.th.__)
 
 ### Checkout my stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amit-s19)](https://github.com/anuraghazra/github-readme-stats)
