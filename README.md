@@ -8,6 +8,9 @@ I have a passion for development(maybe) because I really like what I do and I ho
 apart from that I love working out :running: and reading/watching novels/movies about 
 wizarding world :zap:
 
+### Check out my anime app
+[Dango - Watch Free HD Anime](https://www.dangoapp.xyz)
+
 ### Check out some of my  projects 😸🖤
 1) Covid-19 responsive landing page made with react : https://amits19-covid-19-landing-page.netlify.app/
 2) Drag and drop todo list with MERN : https://amits19-react-todo-drag-drop.netlify.app/
