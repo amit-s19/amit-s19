@@ -16,11 +16,8 @@ wizarding world :zap:
 2) [Drag and drop todo list with MERN](https://amits19-react-todo-drag-drop.netlify.app/)
 3) [Simple framer motion tutorial site with React](https://amits19-framer-motion.netlify.app/)
 4) [A 3D car show made in Three.js](https://amit-s19-three-fiber.netlify.app/)
-5) [Various charts for data visualization](https://amit-s19-plotly-components.netlify.app/)
-6) [Simple todo app](https://amit-s19-react-todo-app.netlify.app/)
-7) [An interactive cards app](https://amit-s19-deck-of-cards.netlify.app/)
-8) [An intersting colorful game](https://amit-s19-lights-out.netlify.app/)
-9) [We all know what it is](https://amit-s19-hangman.netlify.app/)
+5) [Interactive Rick And Morty API demo](https://amits19-rick-morty-api-demo.netlify.app/)
+6) [Various charts for data visualization](https://amit-s19-plotly-components.netlify.app/)
 
 
 ### Connect with me :smiley:
