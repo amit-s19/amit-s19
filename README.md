@@ -13,10 +13,10 @@ wizarding world :zap:
 
 ### Check out some of my  projects 😸🖤
 1) [Covid-19 responsive landing page made with react](https://amits19-covid-19-landing-page.netlify.app/)
-2) [Drag and drop todo list with MERN](https://amits19-react-todo-drag-drop.netlify.app/)
-3) [Simple framer motion tutorial site with React](https://amits19-framer-motion.netlify.app/)
-4) [A 3D car show made in Three.js](https://amit-s19-three-fiber.netlify.app/)
-5) [Interactive Rick And Morty API demo](https://amits19-rick-morty-api-demo.netlify.app/)
+2) [A 3D car show made in Three.js](https://amit-s19-three-fiber.netlify.app/)
+3) [Interactive Rick And Morty API demo](https://amits19-rick-morty-api-demo.netlify.app/)
+4) [Drag and drop todo list with MERN](https://amits19-react-todo-drag-drop.netlify.app/)
+5) [Simple framer motion tutorial site with React](https://amits19-framer-motion.netlify.app/)
 6) [Various charts for data visualization](https://amit-s19-plotly-components.netlify.app/)
 
 
