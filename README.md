@@ -3,8 +3,8 @@
 
 ### 👋 Hi there, I'm Amit Sharma. A Fullstack developer :electron:  and a fitness enthusiast 🏃‍♂️
 I've completed my bachelors degree in computer science 🎓 from Amity University 🏛️
-and I currently work at iDreamCareer as a Fullstack Engineer building a top-notch career guidance product for students 🧑‍💻
-I have a passion for development(maybe) because I really like what I do and I aspire to do BIG things in the near future(Trust me, I will). I also work with React Native in my free time.
+and I currently work at Samagra as a SDE 2 building solutions to solve national problems.
+I have a passion for developmen because I really like what I do and I aspire to do BIG things in the near future( Trust me, I will). I also work with React Native in my free time.
 apart from that I love working out :running: and reading/watching novels/movies about 
 wizarding world :zap:
 
